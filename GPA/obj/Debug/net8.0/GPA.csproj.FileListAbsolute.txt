@@ -1,0 +1,17 @@
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\bin\Debug\net8.0\GPA.exe
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\bin\Debug\net8.0\GPA.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\bin\Debug\net8.0\GPA.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\bin\Debug\net8.0\GPA.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\bin\Debug\net8.0\GPA.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\refint\GPA.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\ref\GPA.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\GPA\GPA\obj\Debug\net8.0\GPA.csproj.Up2Date
